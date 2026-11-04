@@ -13,3 +13,8 @@ venv/
 
 # Secrets
 .env
+# Large installers
+OllamaSetup.exe
+
+# Downloaded AI models
+models/
