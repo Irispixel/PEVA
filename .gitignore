@@ -1,0 +1,15 @@
+# Downloaded AI models
+models/embeddings/
+models/stt/
+models/tts/
+models/wake_word/
+models/vision/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets
+.env

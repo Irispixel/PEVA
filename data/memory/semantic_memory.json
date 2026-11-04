@@ -1,0 +1,58 @@
+[
+    {
+        "id": "105603ab-1431-434d-8dd4-ee8615c3cb93",
+        "content": "The user likes chess.",
+        "category": "preference",
+        "created_at": "2026-08-28T14:26:21.052130",
+        "updated_at": "2026-08-28T14:26:21.052130"
+    },
+    {
+        "id": "b89b0852-7622-4d4d-8bd9-6baf53260656",
+        "content": "User's name is Sankalp.",
+        "category": "identity",
+        "created_at": "2026-08-28T14:36:38.457217",
+        "updated_at": "2026-09-02T17:11:44.570958"
+    },
+    {
+        "id": "796dee2b-cede-4aa1-87e8-99fc15307d44",
+        "content": "The user prefers C++ programming.",
+        "category": "preference",
+        "created_at": "2026-08-28T14:36:38.486822",
+        "updated_at": "2026-08-28T14:42:22.327929"
+    },
+    {
+        "id": "3d90fc7a-9068-416e-b045-b526a40fdbf3",
+        "content": "The user prefers Python programming.",
+        "category": "preference",
+        "created_at": "2026-08-28T14:42:22.406350",
+        "updated_at": "2026-08-28T14:42:22.406350"
+    },
+    {
+        "id": "3ba9cfbe-0b5d-4487-9958-28717f0c82d5",
+        "content": "User prefers to be addressed as Sankalp",
+        "category": "identity",
+        "created_at": "2026-08-28T14:49:36.715235",
+        "updated_at": "2026-08-28T14:53:09.542834"
+    },
+    {
+        "id": "bf9b6d42-e5c3-45ab-8f8b-7151265d5842",
+        "content": "When PEVA goes to sleep, say Good night Sankalp.",
+        "category": "instruction",
+        "created_at": "2026-08-28T15:20:17.594050",
+        "updated_at": "2026-08-28T15:20:17.594050"
+    },
+    {
+        "id": "b9556c99-9539-4790-b57b-b471adb0cc1c",
+        "content": "When user says they are tired, PEVA should remind them to take a break.",
+        "category": "instruction",
+        "created_at": "2026-08-28T20:20:15.901563",
+        "updated_at": "2026-08-28T20:20:15.901563"
+    },
+    {
+        "id": "db62f43c-f5eb-4a57-9138-80b1b7797591",
+        "content": "My name is Sankalp.",
+        "category": "identity",
+        "created_at": "2026-09-01T01:56:21.285243",
+        "updated_at": "2026-09-01T01:56:21.285243"
+    }
+]
